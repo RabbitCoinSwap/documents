@@ -33,6 +33,8 @@ Here is some about RabbitCoin
 >
 > — From the [Tokenomics](rabbitcoin/tokenomics.md)
 
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="https://polygonscan.com/address/0x28767e286113ab01ee819b9398a22d6f27badb6e">Polygon POS</a></td><td></td><td></td><td><a href=".gitbook/assets/logo.png">logo.png</a></td></tr><tr><td><a href="https://www.coingecko.com/en/coins/rabbitcoin-exchange">Coingecko</a></td><td></td><td></td><td><a href=".gitbook/assets/bec9b33d6638ff927a96d0e93546a056.png">bec9b33d6638ff927a96d0e93546a056.png</a></td></tr><tr><td><a href="https://dappradar.com/dapp/rabbitcoin">dappradar</a></td><td></td><td></td><td><a href=".gitbook/assets/48711064.png">48711064.png</a></td></tr></tbody></table>
+
 ## Developments
 
 {% content-ref url="developments/smart-contrats.md" %}

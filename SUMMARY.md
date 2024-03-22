@@ -5,12 +5,13 @@
 ## RabbitCoin
 
 * [💡 About Me](rabbitcoin/about-me.md)
-* [✨ Tokenomics](rabbitcoin/tokenomics.md)
+* [💲 Tokenomics](rabbitcoin/tokenomics.md)
+* [🚶‍♂️ Roadmap](rabbitcoin/roadmap.md)
 
 ## Developments
 
-* [📪 Smart Contrats](developments/smart-contrats.md)
-* [📎 Listing Token](developments/listing-token.md)
+* [✨ Smart Contrats](developments/smart-contrats.md)
+* [📝 Listing Token](developments/listing-token.md)
 
 ## Campaign
 

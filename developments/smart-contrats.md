@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 📪 Smart Contrats
+# ✨ Smart Contrats
 
 Smart contract mainnet decentralized exchange (DEX)
 

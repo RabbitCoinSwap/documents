@@ -16,5 +16,5 @@ layout:
     visible: true
 ---
 
-# 📎 Listing Token
+# 📝 Listing Token
 
