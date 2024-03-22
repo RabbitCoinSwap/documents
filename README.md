@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # 👋 Welcome to A RabbitCoin
 
 {% hint style="info" %}
