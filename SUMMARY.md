@@ -13,15 +13,16 @@
 * [✨ Smart Contrats](developments/smart-contrats.md)
 * [📝 Listing Token](developments/listing-token.md)
 
-## Campaign
-
-* [🛠️ TaskOn](campaign/taskon.md)
-* [Selfdrop RabbitCoin](https://airdrop.rabbitcoin.xyz)
-
 ## Contacts Us
 
 * [🎨 For Listing](contacts-us/for-listing.md)
 * [🖥️ For Developers](contacts-us/for-developers.md)
+
+## Campaign
+
+* [Selfdrop RabbitCoin](https://airdrop.rabbitcoin.xyz)
+* [TaskOn](https://taskon.xyz/space/2107228)
+* [Giveaway](https://giveaway.com/profile/rabbitcoin)
 
 ## Official Link
 
