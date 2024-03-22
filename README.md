@@ -9,16 +9,16 @@
 Here is some about RabbitCoin
 
 > RabbitCoin is a token developed and marketed by the Decentralized exchange (DEX) RabbitCoin itself.
-> — From the [about RabbitCoin](/overview/rabbitcoin)
+> — From the [about RabbitCoin](/rabbitcoin/rabbitcoin)
 
 > How about tokenomics and the RabbitCoin ecosystem, check here
 >
-> — From the [Tokenomics](/overview/tokenomics)
+> — From the [Tokenomics](/rabbitcoin/tokenomics)
 
 ## Developments
 
-{% content-ref url="overview/smartcontract.md" %}
-[smartcontracts.md](overview/smartcontract.md)
+{% content-ref url="rabbitcoin/smartcontract.md" %}
+[smartcontracts.md](rabbitcoin/smartcontract.md)
 {% endcontent-ref %}
 
 ## Contact Us
@@ -26,5 +26,5 @@ Here is some about RabbitCoin
 You can also contact us directly and talk directly to the RabbitCoin team.
 
 {% content-ref url="contact-us/contact-us/" %}
-[contact-us](contact-us/contact-us/)
+[Contact Us](contact-us/contact-us/)
 {% endcontent-ref %}
