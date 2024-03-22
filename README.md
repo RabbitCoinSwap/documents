@@ -4,42 +4,27 @@
 **RabbitCoin** is a Decentralized exchange (DEX). staking, farming or trading with ease and flexibility.
 {% endhint %}
 
-## Overview
+## RabbitCoin
 
-Here are a couple of example overviews from products with really great docs:
+Here is some about RabbitCoin
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
+> RabbitCoin is a token developed and marketed by the Decentralized exchange (DEX) RabbitCoin itself.
+> — From the [about RabbitCoin](/overview/rabbitcoin)
+
+> How about tokenomics and the RabbitCoin ecosystem, check here
 >
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+> — From the [Tokenomics](/overview/tokenomics)
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+## Developments
 
-## Quick links
-
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
+{% content-ref url="overview/smartcontract.md" %}
+[smartcontracts.md](overview/smartcontract.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
-{% endcontent-ref %}
+## Contact Us
 
-## Get Started
+You can also contact us directly and talk directly to the RabbitCoin team.
 
-We've put together some helpful guides for you to get setup with our product quickly and easily.
-
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
+{% content-ref url="contact-us/contact-us/" %}
+[contact-us](contact-us/contact-us/)
 {% endcontent-ref %}
