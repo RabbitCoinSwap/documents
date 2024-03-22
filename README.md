@@ -17,8 +17,8 @@ Here is some about RabbitCoin
 
 ## Developments
 
-{% content-ref url="rabbitcoin/smartcontract.md" %}
-[smartcontracts.md](rabbitcoin/smartcontract.md)
+{% content-ref url="developments/smartcontracts.md" %}
+[smartcontracts.md](developments/smartcontracts.md)
 {% endcontent-ref %}
 
 ## Contact Us
