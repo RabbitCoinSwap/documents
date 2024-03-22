@@ -1,6 +1,20 @@
 ---
 cover: .gitbook/assets/banner gitbook1.png
 coverY: -39
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 👋 Welcome to A RabbitCoin

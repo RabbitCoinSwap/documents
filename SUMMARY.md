@@ -4,7 +4,7 @@
 
 ## RabbitCoin
 
-* [💡 RabbitCoin](rabbitcoin/rabbitcoin.md)
+* [💡 About Me](rabbitcoin/rabbitcoin.md)
 * [✨ Tokenomics](rabbitcoin/tokenomics.md)
 
 ## Developments
