@@ -27,7 +27,7 @@ layout:
 
 Here is some about RabbitCoin
 
-> RabbitCoin is a token developed and marketed by the Decentralized exchange (DEX) RabbitCoin itself. — From the [about RabbitCoin](rabbitcoin/rabbitcoin.md)
+> RabbitCoin is a token developed and marketed by the Decentralized exchange (DEX) RabbitCoin itself. — From the [about RabbitCoin](rabbitcoin/about-me.md)
 
 > How about tokenomics and the RabbitCoin ecosystem, check here
 >

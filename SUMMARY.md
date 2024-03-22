@@ -4,7 +4,7 @@
 
 ## RabbitCoin
 
-* [💡 About Me](rabbitcoin/rabbitcoin.md)
+* [💡 About Me](rabbitcoin/about-me.md)
 * [✨ Tokenomics](rabbitcoin/tokenomics.md)
 
 ## Developments
@@ -15,7 +15,7 @@
 ## Campaign
 
 * [🛠️ TaskOn](campaign/taskon.md)
-* [🪂 Airdrops](campaign/airdrops.md)
+* [Selfdrop RabbitCoin](https://airdrop.rabbitcoin.xyz)
 
 ## Contacts Us
 
