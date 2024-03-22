@@ -49,8 +49,8 @@ Here is some about RabbitCoin
 
 You can also contact us directly and talk directly to the RabbitCoin team.
 
-{% content-ref url="contacts-us/for-listing.md" %}
-[for-listing.md](contacts-us/for-listing.md)
+{% content-ref url="contacts-us/for-update-token.md" %}
+[for-update-token.md](contacts-us/for-update-token.md)
 {% endcontent-ref %}
 
 {% content-ref url="contacts-us/for-developers.md" %}

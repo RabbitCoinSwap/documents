@@ -15,8 +15,14 @@
 
 ## Contacts Us
 
-* [🎨 For Listing](contacts-us/for-listing.md)
+* [🎨 For Update Token](contacts-us/for-update-token.md)
 * [🖥️ For Developers](contacts-us/for-developers.md)
+
+## Help
+
+* [Get Started](help/get-started.md)
+* [Troubleshooting](help/troubleshooting.md)
+* [Customer Support](help/customer-support.md)
 
 ## Campaign
 
