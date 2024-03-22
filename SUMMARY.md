@@ -20,9 +20,9 @@
 
 ## Help
 
-* [Get Started](help/get-started.md)
-* [Troubleshooting](help/troubleshooting.md)
-* [Customer Support](help/customer-support.md)
+* [🟢 Get Started](help/get-started.md)
+* [💬 Troubleshooting](help/troubleshooting.md)
+* [🧑‍🚀 Customer Support](help/customer-support.md)
 
 ## Campaign
 
