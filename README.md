@@ -1,5 +1,6 @@
 ---
-coverY: 0
+cover: .gitbook/assets/banner gitbook1.png
+coverY: -39
 ---
 
 # 👋 Welcome to A RabbitCoin
