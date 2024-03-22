@@ -24,10 +24,18 @@ Here is some about RabbitCoin
 [smart-contrats.md](developments/smart-contrats.md)
 {% endcontent-ref %}
 
+{% content-ref url="developments/listing-token.md" %}
+[listing-token.md](developments/listing-token.md)
+{% endcontent-ref %}
+
 ## Contact Us
 
 You can also contact us directly and talk directly to the RabbitCoin team.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="contacts-us/for-listing.md" %}
+[for-listing.md](contacts-us/for-listing.md)
+{% endcontent-ref %}
+
+{% content-ref url="contacts-us/for-developers.md" %}
+[for-developers.md](contacts-us/for-developers.md)
 {% endcontent-ref %}
