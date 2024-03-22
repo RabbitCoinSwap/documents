@@ -2,23 +2,29 @@
 
 * [👋 Welcome to A RabbitCoin](README.md)
 
-## Overview
+## RabbitCoin
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 RabbitCoin](rabbitcoin/rabbitcoin.md)
+* [✨ Tokenomics](rabbitcoin/tokenomics.md)
 
-## Product Guides
+## Developments
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [📪 Smart Contrats](developments/smart-contrats.md)
+* [📎 Listing Token](developments/listing-token.md)
 
-## Fundamentals
+## Campaign
 
-* [🛠️ Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [🛠️ TaskOn](campaign/taskon.md)
+* [🪂 Airdrops](campaign/airdrops.md)
 
-## Use Cases
+## Contacts Us
 
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥️ For Developers](use-cases/for-developers.md)
+* [🎨 For Listing](contacts-us/for-listing.md)
+* [🖥️ For Developers](contacts-us/for-developers.md)
+
+## Official Link
+
+* [Website](http://rabbitcoin.xyz)
+* [Twitter](https://twitter.com/RabbitCoinMatic)
+* [Discord](https://discord.gg/4BQ9mkfJPT)
+* [Telegram](https://t.me/rabbitcoinsportal)
