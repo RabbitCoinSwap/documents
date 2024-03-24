@@ -26,7 +26,7 @@ Contract address [0x28767e286113ab01ee819b9398a22d6f27badb6e](https://polygonsca
 
 > **Total supply 1,000,000 Rabbit**
 
-<table><thead><tr><th width="272"></th><th width="241">Rabbit</th><th>Percen</th></tr></thead><tbody><tr><td>List DEX</td><td>150000</td><td>15%</td></tr><tr><td>List CEX</td><td>50000</td><td>5%</td></tr><tr><td>Reward Community</td><td>100000</td><td>10%</td></tr><tr><td>Reward Stake and Farm</td><td>500000</td><td>50%</td></tr><tr><td>Reserve and Ads</td><td>100000</td><td>10%</td></tr><tr><td>Community Campaign</td><td>100000</td><td>10%</td></tr><tr><td>Total</td><td>1000000</td><td>100%</td></tr></tbody></table>
+<table><thead><tr><th width="272"></th><th width="241">Rabbit</th><th>Percen</th></tr></thead><tbody><tr><td>List DEX</td><td>125000</td><td>12,5%</td></tr><tr><td>List CEX</td><td>25000</td><td>2,5%</td></tr><tr><td>Reward Community</td><td>100000</td><td>10%</td></tr><tr><td>Ecosystem, stake and farm</td><td>700000</td><td>70%</td></tr><tr><td>Reserve and Ads</td><td>50000</td><td>5%</td></tr><tr><td>Total</td><td>1000000</td><td>100%</td></tr></tbody></table>
 
 You might see a mint code in the [RabbitCoin](https://polygonscan.com/address/0x28767e286113ab01ee819b9398a22d6f27badb6e) contract? Yes, right!
 
