@@ -21,7 +21,15 @@ layout:
 
 
 {% hint style="info" %}
-
+Contract address [0x28767e286113ab01ee819b9398a22d6f27badb6e](https://polygonscan.com/address/0x28767e286113ab01ee819b9398a22d6f27badb6e)
 {% endhint %}
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+> **Total supply 1,000,000 Rabbit**
+
+<table><thead><tr><th width="272"></th><th width="241">Rabbit</th><th>Percen</th></tr></thead><tbody><tr><td>List DEX</td><td>100000</td><td>10%</td></tr><tr><td>List CEX</td><td>50000</td><td>10%</td></tr><tr><td>Reward Community</td><td>100000</td><td>10%</td></tr><tr><td>Reward Stake and Farm</td><td>500000</td><td>50%</td></tr><tr><td>Reserve and Ads</td><td>100000</td><td>10%</td></tr><tr><td>Community Campaign</td><td>100000</td><td>10%</td></tr><tr><td>Total</td><td>1000000</td><td>100%</td></tr></tbody></table>
+
+You might see a mint code in the [RabbitCoin](https://polygonscan.com/address/0x28767e286113ab01ee819b9398a22d6f27badb6e) contract? Yes, right!
+
+However, ownership of RabbitCoin itself has been transferred to [RabbitCoinVault](https://polygonscan.com/address/0x68B7c0F9E25Ee0d687662a5A030b8c54d0eD6232) where the contract has a maxSupply limit of 1000000 and has now been fulfilled.
+
+The following is proof of transfer of ownership. [https://polygonscan.com/tx/0x6034d69dbf99330a92dd5e089dfc4a8560e860c6f47dd5c6c77ed7ae079f32fe](https://polygonscan.com/tx/0x6034d69dbf99330a92dd5e089dfc4a8560e860c6f47dd5c6c77ed7ae079f32fe)
