@@ -39,7 +39,7 @@ List of tokens in the stake feature
 
 You can also register your tokens in the staking menu list.
 
-However there are a few things you have to do, first you have to send the number of tokens you want to use as your own staking reward to the [RabbitCoinVault](https://polygonscan.com/address/0x68B7c0F9E25Ee0d687662a5A030b8c54d0eD6232) contract.
+However there are a few things you have to do, first you have to send the number of tokens you want to use as your own staking reward to the SmartChefInitializable contract which we will provide later.
 
 After that please fill in this form, to complete your token data that you will list.
 
