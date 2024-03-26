@@ -24,12 +24,19 @@ layout:
 Contract address [0x28767e286113ab01ee819b9398a22d6f27badb6e](https://polygonscan.com/address/0x28767e286113ab01ee819b9398a22d6f27badb6e)
 {% endhint %}
 
-> **Total supply 1,000,000 Rabbit**
+Introducing the tokenomics of RabbitCoin, carefully designed with a total supply of 1,000,000 rabbit, aimed at fostering growth, sustainability, and community empowerment.
 
-<table><thead><tr><th width="272"></th><th width="241">Rabbit</th><th>Percen</th></tr></thead><tbody><tr><td>List DEX</td><td>125000</td><td>12,5%</td></tr><tr><td>List CEX</td><td>25000</td><td>2,5%</td></tr><tr><td>Reward Community</td><td>100000</td><td>10%</td></tr><tr><td>Ecosystem, stake and farm</td><td>700000</td><td>70%</td></tr><tr><td>Reserve and Ads</td><td>50000</td><td>5%</td></tr><tr><td>Total</td><td>1000000</td><td>100%</td></tr></tbody></table>
+<table><thead><tr><th width="395">Mechanism</th><th width="241">Token Amount</th><th>Percentage</th></tr></thead><tbody><tr><td>Passive Income (Staking)</td><td><code>300,000</code></td><td>30%</td></tr><tr><td>Passive Income (Farming)</td><td><code>300,000</code></td><td>30%</td></tr><tr><td>Token Purchase for Development</td><td><code>50,000</code></td><td>5%</td></tr><tr><td>Token Buyback</td><td><code>100,000</code></td><td>10%</td></tr><tr><td>Private Sale</td><td><code>50,000</code></td><td>5%</td></tr><tr><td>Selfdrop</td><td><code>100,000</code></td><td>10%</td></tr><tr><td>Listing on DEX</td><td><code>50,000</code></td><td>5%</td></tr><tr><td>Listing on CEX</td><td><code>50,000</code></td><td>5%</td></tr><tr><td>Total</td><td><code>1,000,000</code></td><td>100%</td></tr></tbody></table>
 
-You might see a mint code in the [RabbitCoin](https://polygonscan.com/address/0x28767e286113ab01ee819b9398a22d6f27badb6e) contract? Yes, right!
+Explanation:
 
-However, ownership of RabbitCoin itself has been transferred to [RabbitCoinVault](https://polygonscan.com/address/0x68B7c0F9E25Ee0d687662a5A030b8c54d0eD6232) where the contract has a maxSupply limit of 1000000 and has now been fulfilled.
+1. **Passive Income (Staking)**: 30% of the total supply, which equals 300,000 tokens, allocated for the staking program.
+2. **Passive Income (Farming)**: 30% of the total supply, which equals 300,000 tokens, allocated for the farming program.
+3. **Token Purchase for Development**: 5% of the total supply, which equals 50,000 tokens, allocated for purchasing tokens for project development.
+4. **Token Buyback**: 10% of the total supply, which equals 100,000 tokens, allocated for the token buyback program.
+5. **Private Sale**: 5% of the total supply, which equals 50,000 tokens, allocated for private sale to selected investors.
+6. **Selfdrop**: 10% of the total supply, which equals 100,000 tokens, allocated for the selfdrop campaign.
+7. **Listing on DEX**: 5% of the total supply, which equals 50,000 tokens, allocated for the costs associated with listing on decentralized exchanges.
+8. **Listing on CEX**: 5% of the total supply, which equals 50,000 tokens, allocated for the costs associated with listing on centralized exchanges.
 
-The following is proof of transfer of ownership. [https://polygonscan.com/tx/0x6034d69dbf99330a92dd5e089dfc4a8560e860c6f47dd5c6c77ed7ae079f32fe](https://polygonscan.com/tx/0x6034d69dbf99330a92dd5e089dfc4a8560e860c6f47dd5c6c77ed7ae079f32fe)
+Great news! RabbitCoin has officially been transferred from the deployer's wallet to its new owner, marking a significant milestone in our journey towards decentralization and community-driven governance. [https://polygonscan.com/tx/0x6034d69dbf99330a92dd5e089dfc4a8560e860c6f47dd5c6c77ed7ae079f32fe](https://polygonscan.com/tx/0x6034d69dbf99330a92dd5e089dfc4a8560e860c6f47dd5c6c77ed7ae079f32fe)
