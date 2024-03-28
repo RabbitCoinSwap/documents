@@ -7,11 +7,13 @@
 * [💡 About Me](rabbitcoin/about-me.md)
 * [💲 Tokenomics](rabbitcoin/tokenomics.md)
 * [🚶‍♂️ Roadmap](rabbitcoin/roadmap.md)
+* [📑 White Paper](rabbitcoin/white-paper.md)
 
 ## Developments
 
 * [✨ Smart Contrats](developments/smart-contrats.md)
 * [📝 Listing Token](developments/listing-token.md)
+* [🐰 Update Logo Token](developments/update-logo-token.md)
 
 ## Contacts Us
 
