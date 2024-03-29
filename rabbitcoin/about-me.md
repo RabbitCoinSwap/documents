@@ -37,7 +37,7 @@ Hop on board the RabbitCoin express, where every transaction is a journey filled
 
 🎁 **Exclusive Offer: Selfdrop Special!**
 
-For a limited time only, claim your very own RabbitCoin with just 1 Matic and receive a generous 125 RabbitCoin bonus! Don't miss out on this egg-citing opportunity to join the RabbitCoin family.
+For a limited time only, claim your very own RabbitCoin with just 5 Matic and receive a generous 625 RabbitCoin bonus! Don't miss out on this egg-citing opportunity to join the RabbitCoin family.
 
 Ready to hop into the world of RabbitCoin? Click here to claim your tokens and start your journey to the moon: [airdrop.rabbitcoin.xyz](https://airdrop.rabbitcoin.xyz/)
 
